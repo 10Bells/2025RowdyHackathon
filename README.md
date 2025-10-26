@@ -12,7 +12,7 @@ A lightweight SIEM solution built on Splunk Enterprise to detect failed logins, 
 ## How it works
 1. Splunk collects local Windows Security Event Logs (EventCode 4624, 4625)
 2. SPL queries detect patterns (failed→success logins, excessive failures)
-3. Alerts trigger email notifications and event logging
+3. Alerts trigger notifications and event logging
 
 search/
 {          
