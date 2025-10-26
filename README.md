@@ -27,7 +27,8 @@ search/
       {        
       Incorrect_Login_Attempts.spl (# of failed logins)                     
       Failed_Logins_Over_Time.spl  (# of failed logins over time)           
-      Active_Incidents.spl (Record of 'alerts/' called)                                                                                                                            Login_Success_vs_Failure_Ratio.spl (compares failures to successes)   
+      Active_Incidents.spl (Record of 'alerts/' called)          
+      Login_Success_vs_Failure_Ratio.spl (compares failures to successes)   
       }                         
             }
             }
