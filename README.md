@@ -18,11 +18,15 @@ search/
 {          
    alerts/
     {                
-      Brute_Force_Attempt_alert.spl (2 more fails)            
-      Suspicious_Login_ Detected_alert.spl (incorrect-> sucessful login)              
+      Brute_Force_Attempt.spl (2 more fails)            
+      Suspicious_Login_ Detected.spl (incorrect-> sucessful login)              
    }              
    dashboards/ 
    {       
-      Security_Monitoring_&_Incident_Dashboard.png
+      Security_Monitoring_&_Incident_Dashboard.spl/        {        
+      Incorrect_Login_Attempts.spl                                      
+      Failed_Logins_Over_Time.spl                                  
+      Active_Incidents.spl                             
+      }                         
             }
                                 }
