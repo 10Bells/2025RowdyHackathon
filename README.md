@@ -30,6 +30,7 @@ search/
       Active_Incidents.spl (Record of 'alerts/' called)          
       Login_Success_vs_Failure_Ratio.spl (compares failures to successes)                                                                                                     
       Alerts_By_Type.spl (# of suspicious & brute force attempts)
+      
       }                         
    }
 }
