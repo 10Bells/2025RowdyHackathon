@@ -15,8 +15,14 @@ A lightweight SIEM solution built on Splunk Enterprise to detect failed logins, 
 3. Alerts trigger email notifications and event logging
 
 search/
+{
    alerts/
+    {
       Brute_Force_Attempt_alert.spl (2 more fails)
       Suspicious_Login_ Detected_alert.spl (incorrect-> sucessful login)      
+   }
    dashboards/
+   {
       Security_Monitoring_&_Incident_Dashboard.png
+   }
+}
