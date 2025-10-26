@@ -24,5 +24,5 @@ search/
    dashboards/ 
    {       
       Security_Monitoring_&_Incident_Dashboard.png
-                     }
-                }
+            }
+                                }
