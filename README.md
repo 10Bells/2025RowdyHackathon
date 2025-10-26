@@ -25,9 +25,9 @@ search/
    {       
       Security_Monitoring_&_Incident_Dashboard.spl/  
       {        
-      Incorrect_Login_Attempts.spl                                      
-      Failed_Logins_Over_Time.spl                                  
-      Active_Incidents.spl                             
+      Incorrect_Login_Attempts.spl (# of failed logins)                     
+      Failed_Logins_Over_Time.spl  (# of failed logins over time)           
+      Active_Incidents.spl (Record of 'alerts/' called)                           Login_Success_vs_Failure_Ratio.spl (compares failures to successes)   
       }                         
             }
             }
