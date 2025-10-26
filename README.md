@@ -23,7 +23,7 @@ search/
    }              
    dashboards/ 
    {       
-      Security_Monitoring_&_Incident_Dashboard.spl/        {        
+      Security_Monitoring_&_Incident_Dashboard.spl/                                       {        
       Incorrect_Login_Attempts.spl                                      
       Failed_Logins_Over_Time.spl                                  
       Active_Incidents.spl                             
